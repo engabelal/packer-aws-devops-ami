@@ -32,9 +32,6 @@ Golden AMI with essential DevOps tools for AWS EC2 instances.
 
 ```
 .
-
-```
-.
 ├── aws/
 │   ├── ubuntu-devops-base.pkr.hcl       # Main Packer template
 │   ├── variables.pkr.hcl                # Variables definition
