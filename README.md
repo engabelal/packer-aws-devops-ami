@@ -53,7 +53,6 @@ Golden AMI with essential DevOps tools for AWS EC2 instances.
 │   └── Template_result.png              # AMI result screenshot
 ├── .gitignore
 ├── README.md
-└── TROUBLESHOOTING.md                   # Common issues and solutions
 ```
 ## 🚀 Prerequisites
 
